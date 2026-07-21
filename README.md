@@ -16,11 +16,13 @@
 
 | Android App Development | AI & ML |
 | :--- | :--- |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,python,sklearn,anaconda,opencv,tensorflow" /></a> |
 | **Languages** | **Database** |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,c,python,kotlin,java" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" /></a> |
-| **Tools & Cloud** | **Robotics & Hardware** |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,c,python,kotlin,java,matlab" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" /></a> |
+| **Backend Development** | **Tools, Cloud & Security** |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" /></a> <br><br> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali" /></a> |
+| **Robotics & Hardware** | |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /></a> |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
