@@ -8,7 +8,7 @@
 - 📱 **Lead Android Developer** at Google Developer Group (GDG) & **Lead** at MARC Robotics Club.
 - 🧠 Building solutions using **Kotlin, Jetpack Compose, Computer Vision (YOLO)**, and **LLMs**.
 - 🏆 Placed **51st in India** globally in the IMC Prosperity Algorithmic Trading Contest.
-- ⚡ Solved over **750+ DSA problems** with a 1600+ rating in competitive programming.
+- ⚡ Solved over **750+ DSA problems** with a 1600+ rating in Leetcode Contest.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
