@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 🎓 Pursuing B.Tech in **Electronics & Communication Engineering** at **IIIT Surat** (Class of 2026).
+- 🎓 Pursuing B.Tech in **Electronics & Communication Engineering** at **IIIT Surat**.
 - 📱 **Lead Android Developer** at Google Developer Group (GDG) & **Lead** at MARC Robotics Club.
 - 🧠 Building solutions using **Kotlin, Jetpack Compose, Computer Vision (YOLO)**, and **LLMs**.
 - 🏆 Placed **51st in India** globally in the IMC Prosperity Algorithmic Trading Contest.
